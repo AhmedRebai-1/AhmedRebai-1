@@ -1,7 +1,6 @@
-- 👋 Hi, I’m AhmedRebai
+- 👋 Hi, I’m Ahmed Rebai
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : rebaiahmed999@gmail.com
 
 <!---
